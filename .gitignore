@@ -1,0 +1,14 @@
+comments/
+.DS_Store
+videos/
+Screenshots/
+!comments_by_streamer_txt/reckful/
+comments_by_streamer_txt/
+Twitch_Lawsuit.docx
+Criminal_Evidence/
+comments_by_streamer/
+comments_txt/
+user_bots.txt
+user_name.txt
+users.txt
+bot_pw.txt
